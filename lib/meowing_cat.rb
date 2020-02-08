@@ -7,4 +7,6 @@ class Cat
     pus "meow!"
   end 
   
+  puts "meow!"
+  
 end 
