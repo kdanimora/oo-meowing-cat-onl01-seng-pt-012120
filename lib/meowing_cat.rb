@@ -4,9 +4,7 @@ class Cat
   
 
   def meow
-    pus "meow!"
+    puts "meow!"
   end 
-  
-  puts "meow!"
   
 end 
